@@ -1,0 +1,551 @@
+body{background-color:whitesmoke;}
+.nav-link {
+    color:blue !important;
+    }
+    
+    .navbar {
+        margin: -5px 0;
+
+        
+        position:absolute;
+        left: 0px;
+        top: 5px;
+        right: 5px;
+            
+         
+        
+        }
+        .navbar{
+        background-color: #fff;
+        border-bottom: 3px solid lightgray;
+    
+        }
+        .brand-name {
+        font-family: 'Josefin Slab', serif;
+        font-size: 47px;
+        font-weight: bold;
+        color: #444;
+        text-decoration: none;
+        }
+        
+        .navbar{
+        padding-top: 2px;
+        padding-left: 5px;
+        padding-right: 1397px;
+        }
+        
+        .navbar-custom {
+        font-size: 20px;
+        background-color: #FFF;
+        
+        }
+        .top-container{
+            position:absolute;
+            right: 5px;
+            top: 20px;
+            
+            
+
+        }
+        .text1{
+            font-family: 'Koulen', cursive;
+            color: white;
+            
+            
+
+            position:absolute;
+            left: 0px;
+            right: 0px;
+            
+            top: 73px;
+            
+            background-color: darkblue;
+            
+            padding-left: 20px;
+            padding-bottom: 400px;
+            padding-top: 25px;
+        
+        
+
+
+        }
+        .textpeople{
+            font-family: 'Koulen', cursive;
+            color: white;
+            
+            
+
+            position:absolute;
+            left: 0px;
+            right: 0px;
+            
+            top: 73px;
+            
+            background-color: darkblue;
+            padding-left: 20px;
+            padding-bottom: 600px;
+            padding-top: 25px;
+            }
+
+        .subtext{
+            color: white;
+            position:absolute;
+            left: 20px;
+            top: 160px;
+            background-color:darkblue;
+
+            font-family: 'Radio Canada', sans-serif;
+            
+
+        
+
+
+
+        }
+        .image-container{
+            color: #fff;
+            position:absolute;
+            left: 1250px;
+            top: 125px;
+            
+
+        }
+        .icon-container{
+            position:absolute;
+            left: 800px;
+            top: 650px;
+
+        }
+        
+        
+        .heading1{
+            
+            font-family: 'Koulen', cursive;
+            color:indigo;
+            
+            
+
+            position:absolute;
+            left: 0px;
+            right: 0px;
+            
+            top: 580px;
+            padding-left: 20px;
+
+        }
+        .define2{
+            font-family: 'Radio Canada', sans-serif;
+            position:absolute;
+            left: 20px;
+            right: 0px;
+            
+            top: 700px;
+
+        }
+
+        .card{
+            position:absolute;
+            left: 1400px;
+            right: 0px;
+            
+            top: 560px;
+
+
+        }
+        .text-center{
+            position:absolute;
+            left: 0px;
+            right: 0px;
+            
+            top: 150px;
+
+
+        }
+
+        .text-wiz{
+            position:absolute;
+            left: 950px;
+            right: 0px;
+            
+            top: 310px;
+
+        }
+
+        .text-walter{
+            position:absolute;
+            left: 925px;
+            right: 0px;
+            
+            top: 470px;
+
+
+        }
+        .text-tyson{
+            position:absolute;
+            left: 1100px;
+            right: 0px;
+            
+            top: 600px;
+
+
+        }
+
+        .accordion{
+            position:absolute;
+           
+           
+            
+            top: 770px;
+            left: 700px;
+
+            
+
+
+
+        }
+
+        .highlightme{
+            color: white;
+            background-color: darkblue;
+            
+            font-family: 'Koulen', cursive;
+            
+            
+            
+
+            position:absolute;
+            left: 0px;
+            
+            
+            top: 73px;
+            padding-right: 700px;
+            padding-bottom: 700px;
+            padding-left: 20px;
+            
+            
+            
+            
+          
+         }
+
+         .desctxt{
+            color: white;
+            position:absolute;
+            left: 10px;
+            top: 140px;
+            padding-left: 10px;
+            background-color:darkblue;
+
+            font-family: 'Radio Canada', sans-serif;
+
+
+
+
+
+
+
+         }
+         .highlightme2{
+            color: white;
+            background-color: darkblue;
+            
+            font-family: 'Koulen', cursive;
+            
+            
+            
+
+            position:absolute;
+            left: 0px;
+            
+            
+            top: 300px;
+            padding-right: 700px;
+            padding-left: 20px;
+         }
+
+
+         .desctext2{
+            color: white;
+            position:absolute;
+            left: 10px;
+            top: 370px;
+            background-color:darkblue;
+
+            font-family: 'Radio Canada', sans-serif;
+         }
+
+
+
+         .form{
+             background-color: white;
+
+            position: absolute;
+
+            top: 74px;
+
+            left: 425px;
+
+            padding-left: 400px;
+            padding-right: 400px;
+            padding-top: 100px;
+            padding-bottom: 100px;
+
+
+
+         }
+         .apply{
+             color: darkblue;
+            
+          
+            
+            font-family: 'Koulen', cursive;
+            
+            
+            
+
+            position:absolute;
+            left: 825px;
+            
+            top: 100px;
+            
+            
+            
+
+
+
+
+
+
+         }
+
+         .applyimage{
+
+            position: absolute;
+
+            top: 90px;
+
+            left: 450px;
+
+
+
+
+
+
+
+         }
+
+
+
+
+
+
+
+
+
+
+
+
+         .highlight{
+            color: white;
+            
+            
+            font-family: 'Koulen', cursive;
+            
+            
+            
+
+            position:absolute;
+            left: 850px;
+            
+            
+            top: 75px;
+            
+
+
+
+
+
+
+
+         }
+
+         .linkstxt{
+
+
+            color: white;
+            position:absolute;
+            left: 425px;
+            top: 125px;
+            background-color:darkblue;
+
+
+            padding-right: 700px;
+
+            font-family: 'Radio Canada', sans-serif;
+
+
+
+
+
+
+
+
+
+         }
+
+         .card1{
+             color: white;
+             background-color: darkblue;
+
+
+             position: absolute;
+             left: 130px;
+             top: 135px;
+
+
+
+
+
+
+
+         }
+
+    
+        .card2{
+            color: white;
+            background-color: darkblue;
+
+
+            position: absolute;
+            left: 460px;
+            top: 135px;
+
+
+
+
+
+
+
+        }
+
+        .card3{
+            color: white;
+            background-color: darkblue;
+
+
+            position: absolute;
+            left: 785px;
+            top: 135px;
+
+
+
+
+
+
+
+        }
+
+        .card4{
+            color: white;
+            background-color: darkblue;
+
+
+            position: absolute;
+            left: 1110px;
+            top: 135px;
+
+
+
+
+
+
+
+        }
+
+        .card5{
+            color: white;
+            background-color: darkblue;
+
+
+            position: absolute;
+            left: 1460px;
+            top: 135px;
+
+
+
+
+
+
+
+        }
+
+        .more{
+
+            position: absolute;
+
+            top: 750px;
+            left: 950px;
+  
+
+
+
+
+
+        }
+        .thank{
+            font-family: 'Koulen', cursive;
+            
+           
+            color: white;
+
+            position: absolute;
+            top: 100px;
+            left: 590px;
+
+
+
+
+        }
+        .thanktext{
+            color: white;
+
+            font-family: 'Radio Canada', sans-serif;
+
+            position: absolute;
+
+            top: 150px;
+            left:650px;
+
+
+
+
+        }
+        .thank2{
+            color: white;
+
+            font-family: 'Radio Canada', sans-serif;
+
+            position: absolute;
+
+            top: 190px;
+            left:600px;
+
+
+
+
+        }
+
+      
+
+
+     
+
+       
+
+
+
+
+
+
+      
+
